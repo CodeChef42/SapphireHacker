@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SapphireHacker
+- 👋 Hi, I’m @CodeChef42
 - 👀 I’m interested in data science and AI
 - 🌱 I’m currently learning data mining and visualization
 - 📫 Connect with me on my linkedin, to share and gain insights!
